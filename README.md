@@ -1,4 +1,3 @@
-!(Schema Diagram)[https://github.com/saikat912/E-Commerce-Recommendations-Using-SQL/blob/a3a70199515998c3958499d00bff55f6dd590dd5/Schema.png]
 # SQL Queries Project 🚀
 
 This repository contains a collection of SQL queries for various analytical and transactional purposes. The queries are designed to work with a database containing tables such as `Users`, `Orders`, `OrderDetails`, `Products`, and `ProductRecommendations`.
